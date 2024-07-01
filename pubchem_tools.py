@@ -61,7 +61,7 @@ replacement_dict = {
 	'.omega.': 'ω'}
 
     
-def name2inchi(chemname):
+def name2inchi (chemname):
     #queries the PubChem compound database for a name and returns an InChi
     api_url = f"https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/{chemname}/property/InChI/TXT"
     response = requests.get(api_url)
