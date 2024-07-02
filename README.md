@@ -19,9 +19,13 @@ Dependancies:
   io
 
 Save pubchem_tools.py where you normally save your modules:
+
 Windows: C:\Users\YourUsername\AppData\Local\Programs\Python\PythonXX\Lib\site-packages
+
 Mac: /Library/Frameworks/Python.framework/Versions/X.Y/lib/pythonX.Y/site-packages
+
 Ubuntu: /usr/lib/pythonX.Y/dist-packages
+
 
 
 ## Usage
